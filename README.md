@@ -1,4 +1,6 @@
-# testing-blog
+# ml-tests
+
+Just playing with machine learning algorithmms
 
 Testing:
 
